@@ -19,3 +19,6 @@ dist/
 
 # macOS
 .DS_Store
+
+# Local VS Code settings may contain machine-specific interpreter paths
+.vscode/settings.json
